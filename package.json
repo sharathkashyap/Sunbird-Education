@@ -86,7 +86,7 @@
     "grapheme-splitter": "^1.0.4",
     "ionic-plugin-keyboard": "2.2.1",
     "ionic4-rating": "^1.0.9",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "rxjs-compat": "^6.5.2",
     "sb-cordova-plugin-customtabs": "git+https://github.com/Sunbird-Ed/sb-cordova-plugin-customtabs.git",
     "sb-cordova-plugin-db": "git+https://github.com/swayangjit/sb-cordova-plugin-db.git",
